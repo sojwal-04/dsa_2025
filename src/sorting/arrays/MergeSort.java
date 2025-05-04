@@ -3,7 +3,6 @@ package sorting.arrays;
 import java.util.Arrays;
 import java.util.Random;
 
- a
 
 //tc : N log(N), sc: O(N)
 public class MergeSort {
